@@ -107,14 +107,14 @@ The one-page **Customer Behavior Dashboard** includes:
 ## 📁 Repository Structure
 
 ```
-├── README.md
 ├── images/
 │   └── dashboard.png
-├── data/            # cleaned dataset
-├── notebooks/       # Python data exploration and cleaning
+├── report/          # Full analysis report (.docx)
+├── README.md
 ├── sql/             # MySQL queries (10 analyses)
-├── dashboard/       # Power BI file (.pbix)
-└── report/          # Full analysis report (.docx)
+├── notebooks/       # Python data exploration and cleaning
+└── dashboard/       # Power BI file (.pbix)
+
 ```
 
 
